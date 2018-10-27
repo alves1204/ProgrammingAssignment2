@@ -7,6 +7,10 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
+test <- function(x = matrix()) {
+        
+}
+
 
 ## Write a short comment describing this function
 
